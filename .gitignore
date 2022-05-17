@@ -1,3 +1,4 @@
-output/
+
 export.xlsx
 .ipynb_checkpoints
+data/
